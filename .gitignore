@@ -1,0 +1,9 @@
+config/__pycache__/
+memcardapi/__pycache__/
+
+
+__pycache__/
+.idea/
+media/images/
+images/
+venv/
